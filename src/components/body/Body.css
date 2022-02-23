@@ -1,0 +1,49 @@
+.body .container{
+    background-color: blue;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.timer-types{
+    height: 100px;
+    width: 800px;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.timer-types button{
+    width: 140px;
+    height: 80px;
+    align-self: center;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.timer-area{
+    background-color: aqua;
+    height: 300px;
+    width: 800px;
+    font-size: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    align-items: center;
+}
+.controlButtons{
+    height: 100px;
+    width: 800px;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.controlButtons button{
+    width: 140px;
+    height: 80px;
+    align-self: center;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
